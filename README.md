@@ -1,125 +1,80 @@
+````markdown
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> MADHAN
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=MADHAN&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20•%20JAVA%20DEVELOPER%20•%20AI%20ENTHUSIAST&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+CYBERPUNK+DEVELOPER;☕+JAVA+DEVELOPER;🚀+DSA+ENTHUSIAST;🤖+AI+%26+MACHINE+LEARNING;💻+BUILD.+LEARN.+REPEAT." />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B00FF,100:FF0080&height=220&section=header&text=WELCOME%20TO%20MY%20CYBERSPACE&fontSize=42&fontColor=ffffff&animation=twinkling"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&center=true&vCenter=true&width=900&color=00F7FF&lines=console.log(%22Hello+World!%22);Java+Developer;Backend+Engineer;Problem+Solver;AI+Explorer;Always+Learning..." />
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge)
 
 </div>
 
----
+# > whoami
 
-# ⚡ SYSTEM STATUS
-
-```yaml
-Name      : Madhan
-Role      : Software Developer
-Education : B.Tech Student
-Language  : Java
-Learning  : Spring Boot | AI | Machine Learning
-Mission   : Become an Elite Software Engineer
-Status    : ONLINE
+```bash
+Name        :: Madhan
+Role        :: Software Developer
+Speciality  :: Java | Backend | DSA
+Education   :: B.Tech
+Focus       :: Clean Architecture
+Status      :: ONLINE
 ```
 
 ---
 
-# 🧠 ABOUT ME
+# > cat skills.json
 
-```java
-class Madhan {
-
-    String role = "Java Developer";
-    String[] skills = {
-        "Java",
-        "Python",
-        "Spring Boot",
-        "SQL",
-        "Git",
-        "GitHub"
-    };
-
-    String[] interests = {
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Backend Development",
-        "Problem Solving"
-    };
-
-    void life(){
-        while(true){
-            Learn();
-            Code();
-            Build();
-            Repeat();
-        }
-    }
+```json
+{
+  "languages": [
+    "Java",
+    "Python",
+    "SQL"
+  ],
+  "backend": [
+    "Spring Boot",
+    "REST API"
+  ],
+  "database": [
+    "MySQL"
+  ],
+  "frontend": [
+    "HTML",
+    "CSS"
+  ],
+  "tools": [
+    "Git",
+    "GitHub",
+    "VS Code"
+  ]
 }
 ```
 
 ---
 
-# ⚔ TECH ARSENAL
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-# 🚀 CURRENT MISSION
-
-- ☕ Master Advanced Java
-- 📚 Solve 500+ DSA Problems
-- 🚀 Spring Boot Development
-- 🤖 AI & Machine Learning
-- 🗄 Database Design
-- 🌐 REST APIs
-- ☁ Git Workflow
-
----
-
-# 📊 GITHUB ANALYTICS
+# > Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,vscode,html,css"/>
 
 </p>
 
 ---
 
-# 📈 MOST USED LANGUAGES
+# > GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# > Languages
 
 <p align="center">
 
@@ -129,17 +84,7 @@ class Madhan {
 
 ---
 
-# 🏆 ACHIEVEMENTS
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🔥 CONTRIBUTION GRAPH
+# > Contribution Activity
 
 <p align="center">
 
@@ -149,79 +94,65 @@ class Madhan {
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# > Achievements
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4"/>
 
 </p>
 
 ---
 
-# 💻 TERMINAL
+# > Developer Terminal
 
-```bash
-> whoami
+```text
+Initializing System...
 
-Madhan
+██████████████████████████████████ 100%
 
-> skills
+✔ Java Loaded
 
-Java
-Python
-Spring Boot
-MySQL
-Git
-GitHub
-AI
-Machine Learning
+✔ Spring Boot Loaded
 
-> goal
+✔ SQL Connected
 
-Become a Software Engineer
+✔ Git Repository Synced
 
-> status
+✔ AI Modules Ready
 
-███████████████████████ 100%
-
-READY TO BUILD
+Status : READY FOR NEXT PROJECT
 ```
 
 ---
 
-# 🎯 2026 TARGETS
+# > Current Objectives
 
-✅ Master Java
-
-✅ Learn Spring Boot
-
-✅ Crack Coding Interviews
-
-✅ Build AI Projects
-
-✅ Open Source Contributions
-
-✅ 500+ DSA Problems
-
-✅ Software Engineering Internship
+```text
+[✔] Master Java
+[✔] Solve DSA Daily
+[✔] Learn Spring Boot
+[✔] Build Scalable Projects
+[✔] Contribute to Open Source
+[✔] Become Software Engineer
+```
 
 ---
 
-# 🌐 CONNECT
+# > Connect
 
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-7B00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -230,19 +161,9 @@ READY TO BUILD
 
 <div align="center">
 
-# ⚡ CYBER CORE
+## ⚡ KEEP BUILDING. KEEP LEARNING. KEEP SHIPPING.
 
-```text
-██████╗ ██╗   ██╗██████╗ ███████╗██████╗
-██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
-██║  ██║ ╚████╔╝ ██████╔╝█████╗  ██████╔╝
-██║  ██║  ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
-██████╔╝   ██║   ██████╔╝███████╗██║  ██║
-╚═════╝    ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
-### ⚡ BUILD • DEBUG • DEPLOY • REPEAT ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B00FF,100:FF0080&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
 
 </div>
+````
