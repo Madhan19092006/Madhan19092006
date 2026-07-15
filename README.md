@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Madhan
 
-<!--
-**Madhan19092006/Madhan19092006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech Student
+☕ Java Developer
+📚 DSA Enthusiast
+🤖 AI & Machine Learning Learner
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Java
+- Data Structures & Algorithms
+- Spring Boot
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Java | Python | MySQL | HTML | CSS | Git | GitHub
+
+## 📈 GitHub Stats
+
+(Add GitHub stats cards)
+
+## 🎯 Goal
+Become a Software Engineer and build impactful applications.
+
+Thanks for visiting ❤️
