@@ -1,130 +1,248 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Madhan**
+<div align="center">
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> MADHAN
 
-### 💫 Passionate Software Developer | Java Enthusiast | AI Explorer
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+CYBERPUNK+DEVELOPER;☕+JAVA+DEVELOPER;🚀+DSA+ENTHUSIAST;🤖+AI+%26+MACHINE+LEARNING;💻+BUILD.+LEARN.+REPEAT." />
 
-I'm a **B.Tech student** who enjoys transforming ideas into real-world applications through clean code and continuous learning. My journey revolves around mastering **Java**, solving **Data Structures & Algorithms** problems, and exploring the exciting world of **Artificial Intelligence**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B00FF,100:FF0080&height=220&section=header&text=WELCOME%20TO%20MY%20CYBERSPACE&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 
-> *"Code. Learn. Build. Repeat."*
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge)
 
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech Undergraduate
-* ☕ Java Backend Developer in Progress
-* 📚 Consistently practicing Data Structures & Algorithms
-* 🌱 Exploring Spring Boot & REST APIs
-* 🤖 Learning Artificial Intelligence & Machine Learning
-* 💡 Interested in Software Development, AI, and Cloud Technologies
-* 🎯 Goal: Become a Software Engineer at a top product-based company
+</div>
 
 ---
 
-## 🧠 Currently Learning
+# ⚡ SYSTEM STATUS
 
-```text
-☕ Advanced Java
-📚 Data Structures & Algorithms
-🚀 Spring Boot
-🗄 SQL & Database Design
-🌐 REST APIs
-🤖 Machine Learning
-☁ Git & GitHub Workflow
+```yaml
+Name      : Madhan
+Role      : Software Developer
+Education : B.Tech Student
+Language  : Java
+Learning  : Spring Boot | AI | Machine Learning
+Mission   : Become an Elite Software Engineer
+Status    : ONLINE
 ```
 
 ---
 
-## 💻 Tech Stack
-
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Coding Journey
-
-* 💯 Solving DSA problems every day
-* 🚀 Building Java Projects
-* 📖 Learning System Design fundamentals
-* 🌍 Exploring Open Source Contributions
-* 🧩 Improving Problem Solving Skills
-
----
-
-## 📌 2026 Goals
-
-* ✅ Master Java
-* ✅ Solve 500+ DSA Problems
-* ✅ Learn Spring Boot Completely
-* ✅ Build Full Stack Projects
-* ✅ Contribute to Open Source
-* ✅ Strengthen AI & Machine Learning Skills
-* ✅ Land a Software Engineering Internship
-
----
-
-## 🌟 Fun Fact
+# 🧠 ABOUT ME
 
 ```java
-while(!success){
-    learn();
-    practice();
-    build();
-    improve();
+class Madhan {
+
+    String role = "Java Developer";
+    String[] skills = {
+        "Java",
+        "Python",
+        "Spring Boot",
+        "SQL",
+        "Git",
+        "GitHub"
+    };
+
+    String[] interests = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Backend Development",
+        "Problem Solving"
+    };
+
+    void life(){
+        while(true){
+            Learn();
+            Code();
+            Build();
+            Repeat();
+        }
+    }
 }
 ```
 
 ---
 
-## 🤝 Let's Connect
+# ⚔ TECH ARSENAL
 
-* 💬 Always open to collaboration
-* 🚀 Interested in exciting software projects
-* 🌱 Learning something new every single day
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+# 🚀 CURRENT MISSION
+
+- ☕ Master Advanced Java
+- 📚 Solve 500+ DSA Problems
+- 🚀 Spring Boot Development
+- 🤖 AI & Machine Learning
+- 🗄 Database Design
+- 🌐 REST APIs
+- ☁ Git Workflow
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 MOST USED LANGUAGES
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🔥 CONTRIBUTION GRAPH
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 TERMINAL
+
+```bash
+> whoami
+
+Madhan
+
+> skills
+
+Java
+Python
+Spring Boot
+MySQL
+Git
+GitHub
+AI
+Machine Learning
+
+> goal
+
+Become a Software Engineer
+
+> status
+
+███████████████████████ 100%
+
+READY TO BUILD
+```
+
+---
+
+# 🎯 2026 TARGETS
+
+✅ Master Java
+
+✅ Learn Spring Boot
+
+✅ Crack Coding Interviews
+
+✅ Build AI Projects
+
+✅ Open Source Contributions
+
+✅ 500+ DSA Problems
+
+✅ Software Engineering Internship
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-7B00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ *"Great software is built one commit at a time."*
+# ⚡ CYBER CORE
 
-**Thanks for visiting my profile!**
+```text
+██████╗ ██╗   ██╗██████╗ ███████╗██████╗
+██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
+██║  ██║ ╚████╔╝ ██████╔╝█████╗  ██████╔╝
+██║  ██║  ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
+██████╔╝   ██║   ██████╔╝███████╗██║  ██║
+╚═════╝    ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-⭐ Don't forget to star repositories you like!
+### ⚡ BUILD • DEBUG • DEPLOY • REPEAT ⚡
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=blue)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B00FF,100:FF0080&height=120&section=footer"/>
 
 </div>
